@@ -1,0 +1,161 @@
+body {
+	background:#232323;
+	color:#cfcbc2;
+	font-family:sans-serif;
+}
+
+table {
+	font-size:12px;
+	width:100%;
+}
+
+th {
+	background:#2f3030;
+	color:#93ba10;
+	text-align:left;
+}
+
+tr {
+	background:#262626;
+}
+
+.q {
+	border:1px solid #4a4945;
+}
+
+.b {
+	background:#2a2a2a;
+}
+
+#q {
+	border:1px solid #4a4945;
+}
+
+#b {
+	background:#2a2a2a;
+}
+
+
+.iN {
+	color:#FF0000;
+}
+.iY {
+	color:#008000;
+}
+
+#D {
+	text-indent: 16px;
+	background-image: url(skill/D.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#Dp {
+	text-indent: 16px;
+	background-image: url(skill/Dp.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#Cn {
+	text-indent: 16px;
+	background-image: url(skill/Cm.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#C {
+	text-indent: 16px;
+	background-image: url(skill/C.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px;
+}
+
+#Cp {
+	text-indent: 16px;
+	background-image: url(skill/Cp.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#Bn {
+	text-indent: 16px;
+	background-image: url(skill/Bm.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#B {
+	text-indent: 16px;
+	background-image: url(skill/B.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#Bp {
+	text-indent: 16px;
+	background-image: url(skill/Bp.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#An {
+	text-indent: 16px;
+	background-image: url(skill/Am.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#A {
+	text-indent: 16px;
+	background-image: url(skill/A.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#Ap {
+	text-indent: 16px;
+	background-image: url(skill/Ap.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#G {
+	text-indent: 16px;
+	background-image: url(skill/G.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
+
+#S {
+	text-indent: 16px;
+	background-image: url(skill/S.png);
+	background-repeat: no-repeat;
+	color: #000000;
+	padding: 1px;
+	font-size: 11px
+}
